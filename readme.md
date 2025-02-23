@@ -1,4 +1,4 @@
-### **Resumo sobre o Azure OpenAI**  
+# **Resumo sobre o Azure OpenAI**  
 
 O **Azure OpenAI** é uma plataforma que permite a integração dos poderosos modelos da OpenAI, como GPT-4, DALL·E e Codex, com a infraestrutura segura e escalável da Microsoft Azure. Ele é projetado para fornecer soluções empresariais de inteligência artificial, permitindo que desenvolvedores e empresas usem IA generativa para diversos casos de uso, como atendimento ao cliente, análise de dados, automação e muito mais.  
 
